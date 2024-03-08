@@ -1,0 +1,9 @@
+h6{
+    overflow: auto;
+ }
+
+ @media (min-width: 992px){
+    .card-width{
+        width: fit-content;
+    }
+}
